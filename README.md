@@ -1,6 +1,9 @@
 # Side Project2. Beat Google
-#### ▫️課程名稱：資料結構（2020.二上）
-#### ▫️專案目的：針對特定主題（溫泉）對Google的搜尋結果重新進行排序，呈現更符合使用者需求的搜尋結果排序。
-#### ▫️專案內容：在使用者輸入欲查詢的內容並按下搜尋後，程式會從Google搜尋出來前20筆結果的網頁及子網頁中篩出符合「溫泉」主題的<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;關鍵字，並依設定好之權重算出各網頁的分數重新對Google之搜尋結果進行排序。
-#### ▫️專案使用技術：Java WEB, Apache Tomcat
-#### ▫️專案負責部分：後端功能（設定符合溫泉主題之關鍵字、依設定好之權重計算出前20筆搜尋結果的分數、對計算之結果進行重新排序）
+### ▫️Course：Data Structure（2020.Sophomore）
+### ▫️Purpose of the project：
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reorder Google's search results that are related to hot springs to better suit the users' needs.
+### ▫️Content of the project
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After the users send their queries, our system will filter keywords that are related to hot springs in the webpage and its subpages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from the top 20 search results on Google. Then, we compute each website's score with predefined weight and reorder Google's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search results based on their scores.
+### ▫️Techniques used in the project：Java WEB, Apache Tomcat
+### ▫️Mainly in charge of: backend function
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(including:setting keywords related to hot springs, calculate the scores of each webpage from the top 20 search result on Goolge, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and reorder the webpages.)
