@@ -1,6 +1,6 @@
 # Side project2. Data Structure Final
 <img src = "https://user-images.githubusercontent.com/58580554/159940903-fc92bf6a-0734-4028-a4fe-e4854dcccc1e.png" width=50%>. 
-### | &nbsp;Course：Data Structure（2020.Sophomore）
+### | &nbsp;Course：Data Structure（2020.Sophomore, Group work）
 ### | &nbsp;Goal
 Reorder Google's search results that are related to hot springs to better suit the users' needs.
 ### | &nbsp;Introduction
