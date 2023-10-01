@@ -1,4 +1,4 @@
-### Spring Search: Your Ultimate Hot Spring Search Engine
+### Spring Search: The Ultimate Hot Spring Search Engine
 #### | Course Project: Data Structure (2020.Sophomore)
 &nbsp;&nbsp;<img src = "https://user-images.githubusercontent.com/58580554/159940903-fc92bf6a-0734-4028-a4fe-e4854dcccc1e.png" width=50%>. 
 
